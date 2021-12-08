@@ -1,0 +1,11 @@
+{
+    "name": "Binance Coin",
+    "website": "http://token-binancecoin.me",
+    "description": "Binance Coin - A Pure Yield Farm Meme Token. The role of Binance Coin is as a yield farming token that generating returns from long-term holdings, while building a Zoopad (launchpad) for meme projects. A simple & transparent & effective project.",
+    "explorer": "https://bscscan.com/token/0x6acbb5d49c7db80d9c8d07c030214cd332f1cc9b",
+    "type": "BEP20",
+    "symbol": "BNB",
+    "decimals": 6,
+    "status": "active",
+    "id": "0x6acbb5d49c7db80d9c8d07c030214cd332f1cc9b"
+}
